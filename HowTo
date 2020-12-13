@@ -1,6 +1,6 @@
 if(you.InterestedbyFantasy == true)
   {
-  you.Click(Wiki);
+  you.Click(Wiki) && I.like(you);
   }
 else
   {
