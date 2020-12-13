@@ -1,0 +1,8 @@
+if(you.InterestedbyFantasy == true)
+  {
+  you.Click(Wiki);
+  }
+else
+  {
+  you.ShareThis(OtherThatMightLoveFantasy)
+  }
